@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio-sam-gangwal97/static/css/main.5db1380d.chunk.css",
+    "main.js": "/portfolio-sam-gangwal97/static/js/main.11d21e24.chunk.js",
+    "main.js.map": "/portfolio-sam-gangwal97/static/js/main.11d21e24.chunk.js.map",
+    "runtime-main.js": "/portfolio-sam-gangwal97/static/js/runtime-main.51893f2a.js",
+    "runtime-main.js.map": "/portfolio-sam-gangwal97/static/js/runtime-main.51893f2a.js.map",
+    "static/css/2.57ddf7ad.chunk.css": "/portfolio-sam-gangwal97/static/css/2.57ddf7ad.chunk.css",
+    "static/js/2.234a6713.chunk.js": "/portfolio-sam-gangwal97/static/js/2.234a6713.chunk.js",
+    "static/js/2.234a6713.chunk.js.map": "/portfolio-sam-gangwal97/static/js/2.234a6713.chunk.js.map",
+    "index.html": "/portfolio-sam-gangwal97/index.html",
+    "precache-manifest.ce3fb4087a35c169165b842a0d5d7de7.js": "/portfolio-sam-gangwal97/precache-manifest.ce3fb4087a35c169165b842a0d5d7de7.js",
+    "service-worker.js": "/portfolio-sam-gangwal97/service-worker.js",
+    "static/css/2.57ddf7ad.chunk.css.map": "/portfolio-sam-gangwal97/static/css/2.57ddf7ad.chunk.css.map",
+    "static/css/main.5db1380d.chunk.css.map": "/portfolio-sam-gangwal97/static/css/main.5db1380d.chunk.css.map",
+    "static/js/2.234a6713.chunk.js.LICENSE.txt": "/portfolio-sam-gangwal97/static/js/2.234a6713.chunk.js.LICENSE.txt",
+    "static/media/crio-logo-white.svg": "/portfolio-sam-gangwal97/static/media/crio-logo-white.c9536e04.svg",
+    "static/media/crio-logo.svg": "/portfolio-sam-gangwal97/static/media/crio-logo.63be71d0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51893f2a.js",
+    "static/css/2.57ddf7ad.chunk.css",
+    "static/js/2.234a6713.chunk.js",
+    "static/css/main.5db1380d.chunk.css",
+    "static/js/main.11d21e24.chunk.js"
+  ]
+}
